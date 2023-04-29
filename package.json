@@ -1,0 +1,28 @@
+{
+  "name": "routine-ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "dependencies": {
+    "fsevents": "^2.3.2"
+  },
+  "devDependencies": {
+    "rollup": "^3.21.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sensetive5/routine-ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "routine",
+    "utils"
+  ],
+  "author": "Alexander Sokolov <ownger@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sensetive5/routine-ts/issues"
+  },
+  "homepage": "https://github.com/sensetive5/routine-ts#readme"
+}
