@@ -7,8 +7,13 @@
     "fsevents": "^2.3.2"
   },
   "devDependencies": {
+    "@babel/core": "^7.21.5",
+    "@babel/preset-env": "^7.21.5",
+    "@babel/preset-typescript": "^7.21.5",
+    "babel-jest": "^29.5.0",
     "jest": "^29.5.0",
-    "rollup": "^3.21.1"
+    "rollup": "^3.21.1",
+    "typescript": "^5.0.4"
   },
   "repository": {
     "type": "git",
