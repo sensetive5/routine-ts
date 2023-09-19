@@ -22,7 +22,7 @@ export class BinaryTreeNode<T> {
     left: Maybe<BinaryTreeNode<T>>
     right: Maybe<BinaryTreeNode<T>>
     constructor({ left, right, id, name, data }:{ id?: string, name?: string, data: T, left?: BinaryTreeNode<T>,
-        right: Maybe<BinaryTreeNode<T>>,  }) {
+        right?: Maybe<BinaryTreeNode<T>>,  }) {
         this.data = data;
         this.left = left;
         this.right = right;
